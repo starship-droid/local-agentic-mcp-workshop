@@ -1,6 +1,6 @@
 # Walkthrough: Running Agentic AI Locally on your Machine (GNU/Linux and Mac)
 
-[Github Repo](https://github.com/starship-droid/local-agentic-mcp-workshop/)    [View Slides](to_be_added)    [JanAI Quickstart](https://www.jan.ai/docs/desktop/quickstart)
+[Github Repo](https://github.com/starship-droid/local-agentic-mcp-workshop/)    [View Slides](https://github.com/starship-droid/local-agentic-mcp-workshop/blob/ad4f060de5981c195961ba4bd93927833f642768/Slides%20Running%20Agentic%20AI%20Offline%20on%20your%20Linux%20Machine.pdf)    [JanAI Quickstart](https://www.jan.ai/docs/desktop/quickstart)
 
 # Getting Started
 
